@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En muchas universidades de Latinoamérica, la información de los estudiantes no está organizada de manera centralizada. Actualmente, los datos se encuentran dispersos en **documentos físicos, hojas de cálculo o sistemas aislados**, lo que provoca varios problemas:
+En muchas universidades de Latinoamérica, la información de los estudiantes no está organizada de manera centralizada. Actualmente, los datos se encuentran dispersos en **documentos físicos, hojas de cálculo o sistemas aislados, lo que provoca varios problemas:
 
 - **Duplicación de registros:** un estudiante puede aparecer varias veces en diferentes listados.  
 - **Pérdida de información importante:** historial académico, datos de contacto o matrícula.  
