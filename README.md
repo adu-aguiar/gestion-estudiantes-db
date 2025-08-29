@@ -1,20 +1,29 @@
-# Contexto de la Problemática
+Integrantes:
+Galarza Yuliana 
+Aguiar Adnery
+Espinoza Parrales
+Mateo Chelsea
 
-## Descripción
+# Gestión ineficiente del inventario en una pequeña empresa de alimentos
 
-En muchas universidades de Latinoamérica, la información de los estudiantes no está organizada de manera centralizada. Actualmente, los datos se encuentran dispersos en documentos físicos, hojas de cálculo o sistemas aislados, lo que provoca varios problemas:
 
-- Duplicación de registros: un estudiante puede aparecer varias veces en diferentes listados.  
-- Pérdida de información importante: historial académico, datos de contacto o matrícula.  
-- Dificultad para acceder a la información: docentes, administrativos y estudiantes tienen problemas para obtener los datos necesarios.  
-- Retrasos en procesos académicos: matrículas, generación de actas y control de calificaciones se ven afectados.
+Una pequeña empresa dedicada a la producción y venta de alimentos enfrenta dificultades significativas en la gestión de su inventario. Actualmente, la información sobre las materias primas, productos terminados, y ventas se maneja de forma manual y dispersa en diferentes hojas de cálculo y documentos físicos, sin un sistema integrado que permita un control efectivo.
 
-## Necesidad
+# Estos problemas ocasionan:
 
-Debido a estas dificultades, se requiere un **modelo de base de datos** que permita:
+Errores en el registro de entradas y salidas: La falta de actualización en tiempo real genera inconsistencias en las cantidades disponibles.
+Desperdicio y pérdidas económicas: Por falta de control adecuado, algunos productos perecederos se vencen o se pierden sin ser detectados a tiempo.
+Dificultad para planificar compras: Sin datos precisos, la empresa no puede anticipar adecuadamente la necesidad de reabastecimiento, afectando la producción y ventas.
+Reportes imprecisos: La ausencia de un sistema centralizado impide generar reportes confiables sobre el estado del inventario, ventas y tendencias.
+Retrasos en la toma de decisiones: La gerencia no cuenta con información actualizada para tomar decisiones rápidas y acertadas.
 
-- Centralizar la información de los estudiantes.  
-- Organizar los datos de manera clara y confiable.  
-- Garantizar integridad y disponibilidad de los registros.  
+# Necesidad
 
-Este proyecto se enfocará en analizar y establecer el **contexto de la problemática**, dejando para etapas posteriores la propuesta de solución mediante un modelo de base de datos.
+Se requiere diseñar un sistema de base de datos que centralice y organice toda la información relacionada con el inventario y ventas, para:
+Mantener un control preciso y actualizado del inventario.
+Registrar correctamente las entradas, salidas y pérdidas de productos.
+Facilitar la planificación de compras y producción.
+Generar reportes que apoyen la gestión eficiente del negocio.
+Mejorar la toma de decisiones basadas en datos reales y confiables.
+
+Este proyecto se enfocará en la creación de un modelo físico en MySQL que permita cubrir estas necesidades y mejorar significativamente la gestión del inventario y ventas de la empresa.
