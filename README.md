@@ -1,8 +1,8 @@
 Integrantes:
-Galarza Yuliana 
-Aguiar Adnery
-Espinoza Parrales
-Mateo Chelsea
+Galarza Yuliana, 
+Aguiar Adnery,
+Espinoza Parrales,
+Mateo Chelsea,
 
 # Gestión ineficiente del inventario en una pequeña empresa de alimentos
 
