@@ -27,3 +27,21 @@ Generar reportes que apoyen la gestión eficiente del negocio.
 Mejorar la toma de decisiones basadas en datos reales y confiables.
 
 Este proyecto se enfocará en la creación de un modelo físico en MySQL que permita cubrir estas necesidades y mejorar significativamente la gestión del inventario y ventas de la empresa.
+
+/proyecto-inventario-alimentos
+│
+├── README.md
+├── documentacion/
+│   └── contexto-del-problema.md
+│
+├── modelo-conceptual/
+│   └── modelo-conceptual.png (o .pdf)
+│
+├── modelo-fisico/
+│   └── modelo-fisico.sql
+│
+├── scripts-sql/
+│   └── datos-ejemplo.sql (opcional)
+│
+└── reportes/
+    └── consultas-reportes.sql (opcional)
